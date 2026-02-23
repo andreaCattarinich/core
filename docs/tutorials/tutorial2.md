@@ -107,7 +107,7 @@ gRPC python script and providing mobility over the gRPC interface.
    ```
 * From another terminal run the **scenario.py** script
    ```shell
-   /opt/core/venv/bin/python scenario.py
+   /opt/core/venv/bin/python /opt/core/share/tutorials/tutorial3/scenario.py
    ```
 * In the GUI dialog box select the session and click connect
 * You will now have joined the already running scenario
